@@ -1,4 +1,6 @@
-# Hey ! 👋
+# Breno Machado
+
+Hey ! 👋
 
 My name is Breno Machado, I'm brazilian and I'm currently a Computer Science student.
 
@@ -8,4 +10,5 @@ My name is Breno Machado, I'm brazilian and I'm currently a Computer Science stu
 - 😄 Sharing a bit of my journey into Machine Learning.
 
 ## Reach me out 👇
+📷 [Instagram](https://www.instagram.com/brenomchd)
 💼 [LinkedIn](https://www.linkedin.com/in/breno-machado-barros/)
