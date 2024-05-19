@@ -2,7 +2,7 @@
 
 Hello There !
 
-Passion for data analysis and its potential to drive informed strategic decisions, my skills in Power BI, Python and SQL empower me to delve into the expansive field of data analysis and turn raw information into actionable insights.
+With an enthusiasm for the intersection between business development and data science, I embrace an analytical approach aimed at driving informed strategic decisions. The integration of these two elements has been crucial in adding value in all of my professional experiences.
 
 - Born in Goiânia, Brazil
 - Computer Science student at [Federal University Of Goiás](https://www.ufg.br/)
