@@ -1,8 +1,8 @@
 # Breno Machado
 
-Hello There !
+Hello There!
 
-With an enthusiasm for the intersection between business development and data science, I embrace an analytical approach aimed at driving informed strategic decisions. The integration of these two elements has been crucial in adding value in all of my professional experiences.
+I'm a Computer Science student passionate about applying data science to solve business challenges. Here, you'll find projects where I explore data-driven strategies, build analytical tools, and create visualizations to turn complex datasets into actionable insights. Experienced in Python, SQL, Power BI, and data visualization libraries. My repositories showcase my commitment to creating solutions that bridge the gap between data science and real-world applications.
 
 - Born in Goiânia, Brazil
 - Computer Science student at [Federal University Of Goiás](https://www.ufg.br/)
