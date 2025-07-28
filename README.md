@@ -16,4 +16,3 @@ Driven by a deep curiosity to understand problems and turn data into meaningful 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=brenomchd&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=brenomchd&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brenomchd&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
