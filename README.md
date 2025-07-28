@@ -1,5 +1,3 @@
-<img width="1377" height="344" alt="image" src="https://github.com/user-attachments/assets/5082b8ad-34bd-4ef6-a8ec-f7af79dc5451" />
-
 ## Hi, I'm Breno Machado 👋
 
 Driven by a deep curiosity to understand problems and turn data into meaningful insights, I seek challenges that bridge technology and diverse business models, combining strong data science skills with Python, Machine Learning, and Big Data, along with an entrepreneurial mindset.
