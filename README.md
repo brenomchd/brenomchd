@@ -1,4 +1,4 @@
-## Hi, I'm Breno Machado 👋
+## Hi, I'm Breno 👋
 
 Driven by a deep curiosity to understand problems and turn data into meaningful insights, I seek challenges that bridge technology and diverse business models, combining strong data science skills with Python, Machine Learning, and Big Data, along with an entrepreneurial mindset.
 
