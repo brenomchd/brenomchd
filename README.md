@@ -3,7 +3,7 @@
 Driven by a deep curiosity to understand problems and turn data into meaningful insights, I seek challenges that bridge technology and diverse business models, combining strong data science skills with Python, Machine Learning, and Big Data, along with an entrepreneurial mindset.
 
 - 🎓 Computer Science student at the Federal University of Goiás
-- 🧠 Researcher at the Center of Excellence in Artificial Intelligence
+- 🧠 Data Scientist at the Center of Excellence in Artificial Intelligence
 - 📊 Data Science Intern at Mosaiclab
 - 💡 Exploring intersections between data, business, and decision-making
 
