@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Breno
+# 👋 Hi, I'm Breno
 
 I'm an AI & Machine Learning Engineer with a strong focus on Natural Language Processing (NLP) and Applied Research & Development (R&D). I build and experiment with data-driven systems, from prototyping and model development to scalable pipelines and production-ready solutions.
 
