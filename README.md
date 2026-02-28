@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Banner.png" alt="Banner" />
+  <img src="./Banner.webp" alt="Banner" />
 </p>
 
 # 👋 Hi, I'm Breno
