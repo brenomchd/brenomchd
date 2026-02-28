@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./Banner.webp" alt="Banner" />
-</p>
-
 # 👋 Hi, I'm Breno
 
 I'm an AI & Machine Learning Engineer with a strong focus on Natural Language Processing (NLP) and Applied Research & Development (R&D). I build and experiment with data-driven systems, from prototyping and model development to scalable pipelines and production-ready solutions.
@@ -10,6 +6,9 @@ I'm an AI & Machine Learning Engineer with a strong focus on Natural Language Pr
 - 🔎 Undergraduate AI Researcher in Healthcare at Informatics Institute - UFG.
 - 🧠 Machine Learning Engineer at the Center of Excellence in Artificial Intelligence.
 - 💡 Advancing AI through language, data, and applied research.
+<p align="center">
+  <img src="./Banner.webp" alt="Banner" />
+</p>
 
 # 💻 Stack:
 
