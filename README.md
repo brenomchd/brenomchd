@@ -3,9 +3,9 @@
 I'm an AI & Machine Learning Engineer with a strong focus on Natural Language Processing (NLP) and Applied Research & Development (R&D). I build and experiment with data-driven systems, from prototyping and model development to scalable pipelines and production-ready solutions.
 
 - 🎓 Computer Science student at the Federal University of Goiás.
-- 🔎 Undergraduate AI Researcher in Healthcare at Informatics Institute - UFG.
+- 🔎 Undergraduate AI Researcher in Healthcare at Informatics Institute.
 - 🧠 Machine Learning Engineer at the Center of Excellence in Artificial Intelligence.
-- 💡 Advancing AI through language, data, and applied research.
+- 💡 Advancing AI through Research & Development (R&D).
 <p align="center">
   <img src="./Banner.webp" alt="Banner" />
 </p>
