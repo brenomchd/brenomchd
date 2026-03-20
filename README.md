@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Breno
 
-I'm an AI & Machine Learning Engineer with a strong focus on Natural Language Processing (NLP) and Applied Research & Development (R&D). I build and experiment with data-driven systems, from prototyping and model development to scalable pipelines and production-ready solutions.
+Currently working on Artificial Intelligence projects, with a focus on NLP, RAG, AI Agents and LLMs, collaborating on research and development initiatives that bridge academic exploration with real-world applications.
 
 - 🎓 Computer Science student at the Federal University of Goiás.
 - 🔎 Undergraduate AI Researcher in Healthcare at Informatics Institute.
