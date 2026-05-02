@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Breno
 
-Currently working on Artificial Intelligence projects, with a focus on NLP, RAG, AI Agents and LLMs, collaborating on research and development initiatives that bridge academic exploration with real-world applications.
+Currently working on Artificial Intelligence projects with a focus on NLP, RAG systems, and AI agents. Experienced in building end-to-end pipelines for document processing, hybrid retrieval, and LLM-based applications, bridging academic research with real-world systems.
 
-- 🎓 Computer Science student at the Federal University of Goiás.
-- 🔎 Undergraduate AI Researcher in Healthcare at Informatics Institute.
-- 🧠 Machine Learning Engineer at the Center of Excellence in Artificial Intelligence.
-- 💡 Advancing AI through Research & Development (R&D).
+🎓 Computer Science student at the Federal University of Goiás
+🔎 Undergraduate AI Researcher in Healthcare at the Informatics Institute
+🧠 Machine Learning Engineer at the Center of Excellence in Artificial Intelligence
+💡 Focused on applied AI, scalable systems, and research-driven development
 <p align="center">
   <img src="./Banner.webp" alt="Banner" />
 </p>
