@@ -2,10 +2,10 @@
 
 Currently working on Artificial Intelligence projects with a focus on NLP, RAG systems, and AI agents. Experienced in building end-to-end pipelines for document processing, hybrid retrieval, and LLM-based applications, bridging academic research with real-world systems.
 
-🎓 Computer Science student at the Federal University of Goiás
-🔎 Undergraduate AI Researcher in Healthcare at the Informatics Institute
-🧠 Machine Learning Engineer at the Center of Excellence in Artificial Intelligence
-💡 Focused on applied AI, scalable systems, and research-driven development
+- 🎓 Computer Science student at the Federal University of Goiás.
+- 🔎 Undergraduate AI Researcher in Healthcare at the Informatics Institute.
+- 🧠 Machine Learning Engineer at the Center of Excellence in Artificial Intelligence.
+- 💡 Focused on applied AI, scalable systems, and research-driven development.
 <p align="center">
   <img src="./Banner.webp" alt="Banner" />
 </p>
