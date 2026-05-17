@@ -1,4 +1,8 @@
+<div align="center">
+
 # Breno Machado Barros
+
+</div>
 
 Currently working on Artificial Intelligence projects with a focus on NLP, RAG systems, and AI agents. Experienced in building end-to-end pipelines for document processing, hybrid retrieval, and LLM-based applications, bridging academic research with real-world systems.
 
