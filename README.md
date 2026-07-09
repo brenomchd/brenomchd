@@ -1,23 +1,36 @@
-<div align="center">
-
-# Breno Machado Barros
-
-</div>
-
-Currently working on Artificial Intelligence projects with a focus on NLP, RAG systems, and AI agents. Experienced in building end-to-end pipelines for document processing, hybrid retrieval, and LLM-based applications, bridging academic research with real-world systems.
-
-- Computer Science student at the Federal University of Goiás.
-- Machine Learning Engineer at the Center of Excellence in Artificial Intelligence.
-- Undergraduate AI Researcher in Healthcare at the Informatics Institute.
-- Focused on applied AI, scalable systems, and research-driven development.
-<p align="center">
-  <img src="./Banner.webp" alt="Banner" />
-</p>
-
-# Stack:
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
+```
+&&&&&&&@&&&&&&&@&&&&&&&&&&&&@@@@&&@@&@&&&&&@@&&@@@@@&@@&&&@@@@@@@@@@@&&@@@@    brenomchd  ------------------------------
+&&&&&&&&&&&&&&&&&&&&&&&&&@&&&&&&&&&&&@@@&&@@@@@@@@@@@@&##&&@@@@@@@@@@@@@@@@    OS: ................. macOS
+&&&&&&&&&&&&&&&&&&&&&&&&&&@@@@@&&&&&&@@@@@@@@@@@@@@@@@&&&&&@@@@@@@@@@@@@@@@    Role: ............... Machine Learning Engineer
+&&&&&&&&&&&&&&&&&&&@@&&@@@@&&@&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    Org: ................ Centro de Excelência em IA (CEIA)
+@&&&&&&&&&&&&@@@@@@&@@@@@@@@@@@&&&&@&@&@&&&@@@@@@@@@@@@@@@@@@@@&@@@@@@@@@@@    Location: ........... Goiânia, GO, Brazil
+&&&&&&&&&@@@&@@@@@@@@@@@@@@@@&&&&&&&&&&&&&&&&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    
+&&&&&@&&&&&&&&&&&&@@@@@@@@@&&&&&@@&&&&&&&&&&&&&&@@@@@@@@@@@@@&@&&&@@@@@@@@@    Languages.Programming: Python, C, C++, SQL
+&&&&&&&&&&&&&&&&&&&&&&@&&&&&&&&&#GP5YYY55PB#&&&&&&&&@@@@@@@@@@@@@@@@@@@@@@@    Languages.Real: ...... Portuguese, English
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&G5JJ?7777777?JPB&&&&&&@@@@@@@@@@@@@@@@@@@@@@@    
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&BYJ??777777777?J5G#&&&&@@@@@@@@@@@@@@@@@@@@@@@    - Research ------------------------------------
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&GJ??77!!!!!!777??5B&&&&&@@@@@@@@@@@@@@@@@@@@@@    Focus: ............... NLP, RAG, LLM-based apps
+&&&&&#&&&&&&&&&&&&&&&&&&&&&@@GJJJJJ?7~~~!!7??J5B&@&&&@@@@@@@@@@@@@@@@@@@@@@    Field: ............... Applied AI, Healthcare AI
+&&&&&&&&&&&&&&&&&&&&&&&&&&&@#5JJ?JJJ?7!!!7?JJYP#@&&&&&&&&&&&&&&@@@@@@@@@@@@    Institute: ........... Instituto de Informática (UFG)
+&&&&&##&&&&&&&&&&&&&&&&&&5P#GJ?77???????J?JJJ?JB@&&&&&&&&&&&&&&&&@&&&@@@@@@    
+&&&&&##&&&&&&&&&&&&&&&&&&J!J5J?7!!!7JJ??YJ777?JG&&&&&&&&&&&&&&&&&&&&&&&&&&&    - Contact -------------------------------------
+&&&&&##&&&&&&&&&&&&&&&&&@G7?5?7!!!7???77?J7!!7J5G&&&&&&&@&&@@@&@@@&&&&&&&&&    LinkedIn: ............ in/brenomchd
+&&&&&&#&&&&&&&&&&&&&&&&&&&G5Y?7!7????77?JJJ?77JP&&&&&&&&&&&&&@@@@&&&&&&&&&&    HuggingFace: ......... huggingface.co/brenomchd
+&&&&&##&&&&&&&&&&&&&&&&&&&@&5?777??7!~!!7JY77?5B&&&&&&&&&&&@&&&&&&&&&&&&&&&    GitHub: .............. github.com/brenomchd
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&PJ??????777?JYJ??5#@&&&&&&&&&&&&&@&&&&&&&&&&&##    
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&5?JJJ??7!!77?JY5B&&&&&&&&&&&&&&&&&&&&&&&&&&&&##    - GitHub Stats ---------------------------------
+&&&&&&&&&&&&&&&&&&&&&&&&&@@&Y7!7???77!7?JYY#@&&&&&&&&&&&&&&&&&@&&&&&&@&&#BB    Followers: ........... 30 | Following: 156
+&&&&&&&&&&&&&&&&&&&&&&&&G555?!~~!!!!77?J?75@&&&&&&&&&&&&&&&&&&&&&&&&&#B#&BP    Stack: ............... Python, NumPy, Pandas
+&&&&&&&#&&&&&&&&&&&&&&&5!^~?7!~~~~~~~!!7!7YB&@&&&&&&&&&&&&&&&&&&&&&#BBB&#PJ                            PyTorch, Scikit-learn
+&&&&#&&#&&&&&&&&&&&&#BY!~~!!!!~~^^~~~~!!!?!!?P&&&&&&&&&&&&&&&&&&&&&###&#P?~                            HuggingFace, TensorFlow
+&&&&&&&&&&&&##BG5YJ7!~!~~^^^^~~^^^^^~~~!!77!~~7G@&&&&&&&&&&&&&&&&###&&&GJ!7    Tools: ............... MLflow, Docker
+&&&&&&BG5Y?7!~~^^^^^^^^^:::::^~^^^^^~~~!!!!!~~^~B&@@&&&&&&&&@@&&#B&&#&BY?!!    
+&&@&GJ~^:::^^::^^^^^^^:::::::~7!!!~~~!!7?7~^:^!~~7YPB&@&&&&&&&&&&#&###BJ7!~    
+@@G?^:::::::^^^^::::::::::::::^!!!!!!!!!!^:^^^~~~~~~!7YG&@@&&&&&##&&#&B?!!!    
+@G~:::::::::::::^^^^::::::::::::~!!!!!!!^::^^^~~~~~~~~~!?P&&&@&&&&&&#&&5!~~    
+&?^^:::.::::::::::::^^^^::::::::::~!!!7~::^^^^^~~~~~~~~!~~J&&&&&&&&&BG#B57!    
+Y^^:::::::::::::::::::::::::::::..^J?~~:::^^^^^^^^~~!!~~~^~P&&&#BGBBGPGP5JJ    
+!^^:::::::::::::::::::::::::::!J7~~!77^::::::::^^^^~!!!!~^:J&&&BGPBG5PGYJ77    
+~^^::::::::::::::::::::::::::::~!^~^.:~::::::::::^^~~!!7!^^7&&&###BG5PBY777    
+^^^:::::::::::::::::::::::::::::^::~7~!..:::::::::^^~!!7~^~P&&#B#GBGP5Y7!7!    
+^^:::::::..::::::::::.:::::::::::^^:J5J:.::::::::::^^^!!^!P@&&#GP5GBGJ7777!    ```
