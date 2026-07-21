@@ -1,4 +1,4 @@
-# Howdy, I'm Breno! 👋
+# Howdy, I'm Breno 🤠
 
 **Machine Learning & AI Engineer** focused on **Machine Learning**, **Generative AI**, **LLMs**, **RAG**, **AI Agents**, and **MLOps**.
 
