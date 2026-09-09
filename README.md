@@ -1,14 +1,15 @@
 # Howdy, I'm Breno 🤠
 
-**AI Engineer I (Multi-Agent Systems)** at **CEIA-UFG**, researching reliable **LLM-based agents**, with experience in **Machine Learning**, **RAG**, and **MLOps**.
+**AI Engineer I** at **CEIA-UFG**, researching reliable **LLM-based agents**, with experience in **Machine Learning**, **RAG**, and **MLOps**.
 
 ```text
-Role:.............. AI Engineer I (Multi-Agent Systems)
+Role:.............. AI Engineer I
 Organization:...... Center of Excellence in AI (CEIA-UFG)
 Education:......... B.S. in Computer Science @ UFG (expected Dec. 2026)
 
 Current Research:
 • Reliable LLM-based Multi-Agent Systems
+• AI research for Music and Audio
 • Agent Harnesses • Hierarchical Orchestration • MCP
 • Context Engineering • Episodic Memory • Agentic RAG
 • AgentOps • Trace-based Evaluation • Token-budget Comparisons
